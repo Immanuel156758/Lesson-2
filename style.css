@@ -1,0 +1,9 @@
+div{
+	height:200px;
+}
+.container{
+	background-color: lightseagreen;
+}
+.container-fluid{
+	background-color: deeppink;
+}
